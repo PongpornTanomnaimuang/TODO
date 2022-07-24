@@ -99,7 +99,7 @@
   .addBtn {
     padding: 10px;
     width: 25%;
-    background: #000000;
+    background: #ffffff;
     color: rgb(0, 0, 0);
     float: left;
     text-align: center;
@@ -110,5 +110,5 @@
   }
   
   .addBtn:hover {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
   }
